@@ -1,1 +1,2 @@
-# stochastic-alu
+# Stochastic Arithmetic-Logic Unit
+## en
