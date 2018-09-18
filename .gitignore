@@ -1,0 +1,11 @@
+# ignore everything
+*
+# but desired files
+*.vhd
+*.tcl
+*.py
+*.cpp
+*.c
+*.tex
+*.asm
+*.qpf
