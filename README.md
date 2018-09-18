@@ -1,2 +1,2 @@
 # Stochastic Arithmetic-Logic Unit
-## en
+This repository contains all the VHDL files necessaries to build an Stochastic Arithmetic-Logic Unit.
