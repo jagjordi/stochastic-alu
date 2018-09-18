@@ -1,6 +1,7 @@
 # ignore everything
 *
 # but desired files
+!*/
 !*.vhd
 !*.tcl
 !*.py
@@ -9,3 +10,6 @@
 !*.tex
 !*.asm
 !*.qpf
+# also "hidden" directories
+.*/
+
