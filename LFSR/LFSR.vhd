@@ -12,7 +12,7 @@ entity LFSR  is
     port
     (
         cells : out std_logic_vector(size-1 downto 0);
-        clk, rst : in std_logic;
+        clk, rst : in std_logic
     );
 end LFSR;
 
